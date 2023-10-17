@@ -1,0 +1,45 @@
+/* link styles */
+a {
+    color: aquamarine;
+  }
+  
+  a:visited {
+    color: #1E90FF;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: #4682B4;
+    text-decoration: none;
+  }
+  
+  nav {
+    font-family: 'Architects Daughter', cursive;
+    background-color: #20B2AA;
+    overflow: hidden;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+  }
+  
+  nav a {
+    padding: 10px;
+    color: #C04402;
+    text-decoration: none;
+    text-align: center;
+    font-size: 2vw;
+  }
+  
+  nav a:visited {
+    color: #2F4F4F;
+  }
+  
+  nav a:hover {
+    color: #F0F7D4;
+    background-color: #000080;
+  }
+  
+  nav a.active {
+    color: #2E6C85;
+    background-color: whitesmoke;
+  }
