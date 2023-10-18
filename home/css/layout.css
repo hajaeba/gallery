@@ -21,7 +21,7 @@
   }
   
   main {
-    color: #202020;
+    color: black;
     margin: 0 2em;
     padding: 8px 16px;
   }
@@ -70,7 +70,7 @@
   h5,
   dt,
   legend {
-    color: white;
+    color: brown;
     font-family: cursive;
     padding-top: 1em;
   }
