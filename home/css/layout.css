@@ -16,7 +16,7 @@
   }
   
   body {
-    background-color: whitesmoke;
+    background-color: lavender;
     font-family: Arial, Helvetica, sans-serif;
   }
   
@@ -70,7 +70,7 @@
   h5,
   dt,
   legend {
-    color: brown;
+    color:sandybrown;
     font-family: cursive;
     padding-top: 1em;
   }
